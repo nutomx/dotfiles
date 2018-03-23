@@ -1,6 +1,6 @@
 [user]
-           name = Kadir Özdemir
-           email = ko@webberz.at
+           name = Thomas Nussbaum
+           email = nutomx@gmail.com
 [alias]
 	c = commit -am
 	up = pull
@@ -49,8 +49,8 @@
 
 # Any GitHub repo with my username should be checked out r/w by default
 # http://rentzsch.tumblr.com/post/564806957/public-but-hackable-git-submodules
-[url "git@github.com:skorp/"]
-  insteadOf = "git://github.com/skorp/"
+[url "git@github.com:nutomx/"]
+  insteadOf = "git://github.com/nutomx/"
 
   [difftool "sourcetree"]
   	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
